@@ -19,10 +19,11 @@ Bu proje, kullanıcıların yapılacaklar listesi oluşturmasına ve yönetmesin
 
 ### Adımlar
 
-   ```bash
+   ```
    git clone https://github.com/Dogukan-Hellac/ToDoApp.git
    cd TodoApp
    npx expo start
+   ```
 
 ## Ekran Görüntüleri
 
