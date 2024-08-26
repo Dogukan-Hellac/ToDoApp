@@ -13,15 +13,13 @@ Bu proje, kullanıcıların yapılacaklar listesi oluşturmasına ve yönetmesin
 
 ### Gereksinimler
 
-- Node.js (>= 14.x.x)
 - npm veya yarn
 - React Native CLI
 - Android Studio veya Xcode (Emülatör veya fiziksel cihaz kullanımı için)
 
 ### Adımlar
 
-1. **Depoyu klonlayın:**
-
    ```bash
-   git clone https://github.com/kullaniciadi/todo-app.git
-   cd todo-app
+   git clone https://github.com/Dogukan-Hellac/ToDoApp.git
+   cd TodoApp
+   npx expo start
