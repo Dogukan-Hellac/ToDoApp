@@ -23,3 +23,10 @@ Bu proje, kullanıcıların yapılacaklar listesi oluşturmasına ve yönetmesin
    git clone https://github.com/Dogukan-Hellac/ToDoApp.git
    cd TodoApp
    npx expo start
+
+## Ekran Görüntüleri
+
+Uygulamanın nasıl göründüğünü ve çalıştığını görmek için aşağıdaki ekran görüntülerine göz atabilirsiniz:
+
+![Ana Ekran](./1.png)
+![Ana Ekran](./2.png)
